@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
+torch
+torchvision
+torchinfo
+tensorflow
+dask
+tensorflow_docs
+imageio
+ipython
